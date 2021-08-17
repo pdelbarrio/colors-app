@@ -16,4 +16,6 @@ Color Application to practice React and some libraries.
 
 ▶ You can also click on "MORE" to see a gradation of each color and copy the color code too.
 
-▶ Libraries used: Material-UI, react-router-dom, react-copy-to-clipboard, chroma-js.
+▶ Libraries used: Material-UI, react-router-dom, react-copy-to-clipboard, chroma-js, rc-slider.
+
+▶ Deployment URL: http://pdelbarrio.github.io/colors-app
