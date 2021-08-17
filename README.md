@@ -18,4 +18,4 @@ Color Application to practice React and some libraries.
 
 ▶ Libraries used: Material-UI, react-router-dom, react-copy-to-clipboard, chroma-js, rc-slider.
 
-▶ Deployment URL: http://pdelbarrio.github.io/colors-app
+▶ Deployment URL: http://pdelbarrio.github.io/colors
