@@ -20,4 +20,4 @@ Color Application to practice React and some libraries.
 
 ▶ Deployment URL: http://pdelbarrio.github.io/colors-app
 
-(the deploy still doesn't work, it seems that Github pages has problems with React's BrowseRouter that I am still trying to solve)
+(the URL has a weird hashtag in the middle because GitHub Pages has problems with React's BrowseRouter and only works if used with HashRouter)
